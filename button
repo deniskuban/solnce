@@ -1,0 +1,3 @@
+<?if($APPLICATION->GetCurPage() != "/sbory/"): ?> 
+<button class="collected__part collected__pay collected__btn main__btn">Пожертвовать</button>
+<?endif; //getcurpage?>
